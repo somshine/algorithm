@@ -1,4 +1,7 @@
 <?php
+
+//Refer the three images for problem statement.
+
 	// $input1 = '{3,3}';
 	// //$input2 = '{1#0#0,0#0#1,1#0#1}';
 	// //$input2 = '{0#1#0,0#0#1,1#1#1}';
